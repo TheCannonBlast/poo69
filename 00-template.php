@@ -17,7 +17,7 @@
 <body class="min-h-[100vh] flex justify-center items-center text-white">
     <main class="w-[380px] h-[600px] bg-white/30 rounded-[20px] ">
         <header class="flex gap-5 justify-between p-3 items-center border-b pb-3 s">
-        <a href="">
+        <a href="index.php">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                     stroke="currentColor" class="w-10 h-10 hover:scale-90 transition-all">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 15L3 9m0 0l6-6M3 9h12a6 6 0 010 12h-3" />
